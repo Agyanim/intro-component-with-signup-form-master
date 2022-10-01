@@ -52,7 +52,7 @@ body {
   padding: 18px 80px;
   border-radius: 10px;
   margin-bottom: 30px;
-  margin-top: 16%;
+  margin-top: 15%;
   box-shadow: 0 8px 6px 0 rgba(0, 0, 0, 0.425);
 }
 
@@ -64,7 +64,7 @@ body {
   background-color: white;
   border-radius: 10px;
   box-shadow: 0 8px 2px 0 rgba(0, 0, 0, 0.425);
-  margin-bottom: 20px;
+  margin-bottom: 25px;
 
 }
 .signup-form {
@@ -85,6 +85,10 @@ body {
   font-weight: 400;
   border: none;
   cursor: pointer;
+}
+.claim-btn:hover,
+.claim-btn:active{
+    opacity: 0.6;
 }
 .by-clicking {
   font-size: 9px;
